@@ -1,16 +1,25 @@
-# cinepolis
+# Cinepolis Apps
 
-A new Flutter project.
+Aplikasi untuk pemesanan tiket bioskop dengan fitur modern.
 
-## Getting Started
+## Tampilan Aplikasi
 
-This project is a starting point for a Flutter application.
+### 1. Halaman Splash Screen
+![Halaman Splash Screen](./lib/images/Cinepolis%20splash.png)
 
-A few resources to get you started if this is your first Flutter project:
+### 2. Halaman Utama
+![Halaman Home](./lib/images/home.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 3. Halaman Movie
+![Halaman Home](./lib/images/movie.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 4. Halaman Pemesanan
+![Halaman Pemesanan](./lib/images/booking.png)
+
+### 5. Halaman Cinema
+![Halaman Pemesanan](./lib/images/cinema.png)
+
+## Fitur
+- Pemesanan tiket bioskop secara online
+- Pemilihan tempat duduk interaktif
+- Informasi film yang sedang tayang
